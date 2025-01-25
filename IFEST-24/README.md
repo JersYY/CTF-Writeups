@@ -1,1 +1,1 @@
-Technofair is an Indonesian CTF held by Universitas Gunadarma. We got 7th place in this competition.
+Informatics Festival is an Indonesian CTF held by Informatics students of Padjadjaran University. We got 7th place in this competition.
